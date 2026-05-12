@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: #0d0d14;
+  color: #e8e8f0;
+  overflow-x: hidden;
+}
